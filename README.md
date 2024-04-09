@@ -14,4 +14,4 @@ Resturant Delivery App: https://www.figma.com/file/DLqX2Pgde2m4THd30ZdaL3/Restur
 
 E-commerce Car-Rental Website: https://www.figma.com/file/M3NItdeF5JjOnJFkAdBrAg/Car-Rental-Ecomerce-Website?type=design&mode=design&t=c6LujUM1ZmYQlATQ-1
 
-PowerGym Lahore Website Design: https://www.figma.com/file/oRsK6JukpSJdCMIKL1LO3g/PowerGym-Website?type=design&node-id=34%3A363&mode=design&t=hfleZ6cvK5FaAZGm-1
+PowerGym Lahore Website Design: https://www.figma.com/proto/oRsK6JukpSJdCMIKL1LO3g/PowerGym-Website?type=design&node-id=15-2&t=7qJNwJ9rWAAK52PW-1&scaling=min-zoom&page-id=0%3A1&mode=design
